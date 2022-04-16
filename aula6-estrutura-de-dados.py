@@ -82,4 +82,4 @@ conjunto = set()
 mixdeestrutura = [(1,2), (3,4), (5,6), ({'João', 'Maria'}, {'Gabriel'})]
 print(mixdeestrutura) #LISTA ( tupla, tupla, tupla, tupla (conjunto (item), conjunto (item))
 
-# Site: doc python 3 você tem tudo que tem na aula detalhado (boa fonte de estudo)
+# Site: doc python 3 você tem tudo que tem na aula detalhado (boa fonte de estudo) ' jkiejijrerer

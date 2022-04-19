@@ -8,7 +8,7 @@ você consegue alterar valor de objetos, mas não o nº de itens '''
 # minhatupla = ('Gui','João')
 
 '''DICIONÁRIO - usado com chaves
-Tem uma chave (key) e um valor (value), tal como um dicionario de portugues
+Tem uma chave (key) e um valor (value), tal como um dicionario de portugues.
 Ex: cadastro. Também conhecido como Dict '''
 # meudicionario = {'nome': 'Guilherme', 'idade': 27}
 
@@ -82,4 +82,7 @@ conjunto = set()
 mixdeestrutura = [(1,2), (3,4), (5,6), ({'João', 'Maria'}, {'Gabriel'})]
 print(mixdeestrutura) #LISTA ( tupla, tupla, tupla, tupla (conjunto (item), conjunto (item))
 
-# Site: doc python 3 você tem tudo que tem na aula detalhado (boa fonte de estudo) ' jkiejijrerer
+# Site: doc python 3 você tem tudo que tem na aula detalhado (boa fonte de estudo) - EM INGLÊS
+
+
+
